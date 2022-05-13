@@ -60,7 +60,7 @@
     "victory-stack": "^34.3.6",
     "victory-tooltip": "^34.3.6",
     "victory-voronoi-container": "^34.3.6",
-    "web3-utils": "^1.2.6"
+    "web3-utils": "^1.7.3"
   },
   "scripts": {
     "build": "react-scripts --max_old_space_size=4096 build",
