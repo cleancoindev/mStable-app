@@ -42,7 +42,7 @@
     "react-tooltip": "^4.2.7",
     "react-transition-group": "^4.4.1",
     "react-use": "^15.3.2",
-    "styled-components": "^5.1.0",
+    "styled-components": "^5.3.5",
     "styled-reset": "^4.1.4",
     "subscriptions-transport-ws": "^0.9.16",
     "ts-pipe-compose": "^0.2.0",
